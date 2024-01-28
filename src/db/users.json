@@ -1,0 +1,74 @@
+[
+    {
+        "id": "1",
+        "name": "Claudio Nuñez Jr.",
+        "username": "claudionunezjr",
+        "email": "claudionunezjr@gmail.com",
+        "bio": "Javascript Web Developer",
+        "friends": [
+            "2",
+            "3",
+            "5"
+        ]
+    },
+    {
+        "id": "2",
+        "name": "Bobbie Joe",
+        "username": "bananzajoe",
+        "email": "bobbie.joe123@outlook.com",
+        "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "friends": [
+            "1",
+            "3",
+            "5"
+        ]
+    },
+    {
+        "id": "3",
+        "name": "Lint Eastwould",
+        "username": "goodbadugly",
+        "email": "goodbadugly@gmail.com",
+        "bio": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "friends": [
+            "1",
+            "5",
+            "6"
+        ]
+    },
+    {
+        "id": "4",
+        "name": "John F. Kennedy",
+        "username": "rip_jfk",
+        "email": "jfk@gov.com",
+        "bio": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+        "friends": [
+            "2",
+            "3",
+            "6"
+        ]
+    },
+    {
+        "id": "5",
+        "name": "Ralph Lauren",
+        "username": "rlauren1967",
+        "email": "r.laurenzo@yahoo.com",
+        "bio": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "friends": [
+            "2",
+            "3",
+            "5"
+        ]
+    },
+    {
+        "id": "6",
+        "name": "Willis",
+        "username": "willi5",
+        "email": "whatyatalkinaboutwillis@ymail.com",
+        "bio": "Whatcha talkin' 'bout Willis?!",
+        "friends": [
+            "3",
+            "4",
+            "5"
+        ]
+    }
+]

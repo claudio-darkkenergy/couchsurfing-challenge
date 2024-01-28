@@ -1,0 +1,11 @@
+{
+    "profile": {
+        "pageTitle": "Profile"
+    },
+    "posts": {
+        "pageTitle": "Posts"
+    },
+    "postDetail": {
+        "pageTitle": "{title}"
+    }
+}

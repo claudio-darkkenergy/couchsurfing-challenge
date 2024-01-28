@@ -1,0 +1,44 @@
+[
+    {
+        "id": "1",
+        "userId": "6",
+        "title": "Check this out!",
+        "body": "This is a great post",
+        "creationDate": 0
+    },
+    {
+        "id": "2",
+        "userId": "5",
+        "title": "Check this out!",
+        "body": "This is a great post",
+        "creationDate": 0
+    },
+    {
+        "id": "3",
+        "userId": "4",
+        "title": "Check this out!",
+        "body": "This is a great post",
+        "creationDate": 0
+    },
+    {
+        "id": "4",
+        "userId": "3",
+        "title": "Check this out!",
+        "body": "This is a great post",
+        "creationDate": 0
+    },
+    {
+        "id": "5",
+        "userId": "2",
+        "title": "Check this out!",
+        "body": "This is a great post",
+        "creationDate": 0
+    },
+    {
+        "id": "6",
+        "userId": "1",
+        "title": "Check this out!",
+        "body": "This is a great post",
+        "creationDate": 0
+    }
+]

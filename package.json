@@ -1,0 +1,28 @@
+{
+  "name": "couchsurfing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc --noEmit && ts-node ./project/build",
+    "start": "npm run build"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@appwrite.io/pink": "^0.3.0",
+    "@appwrite.io/pink-icons": "^0.3.0",
+    "@loom-js/core": "^0.3.25",
+    "classnames": "^2.5.1"
+  },
+  "devDependencies": {
+    "@akrc/esbuild-plugin-clean": "^0.1.3",
+    "@types/node": "^20.11.8",
+    "esbuild": "^0.20.0",
+    "esbuild-plugin-copy": "^2.1.1",
+    "prettier": "^3.2.4",
+    "prettier-plugin-sort-imports": "^1.8.3",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.3.3"
+  }
+}
